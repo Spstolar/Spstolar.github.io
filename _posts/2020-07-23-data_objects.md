@@ -3,7 +3,7 @@
 
 In understanding how to properly feed young, growing models, it is useful to know some of the main data objects in PyTorch and fastai. Fastai extends many of the fundamental PyTorch objects. Here's the picture that I have in my head:
 
-![The relationships between important data objects.](images/dataobjects.png)
+![The relationships between important data objects.](../images/dataobjects.png)
 
 For the main PyTorch data classes:
 
