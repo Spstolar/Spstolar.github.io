@@ -5,12 +5,6 @@ In understanding how to properly feed young, growing models, it is useful to kno
 
 ![The relationships between important data objects.](../../../../images/dataobjects.png)
 
-![The relationships between important data objects.](./images/dataobjects.png)
-
-![The relationships between important data objects.](images/dataobjects.png)
-
-![The relationships between important data objects.](../images/dataobjects.png)
-
 For the main PyTorch data classes:
 
 * [Dataset](https://pytorch.org/docs/stable/data.html#torch.utils.data.Dataset)
